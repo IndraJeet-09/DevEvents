@@ -1,0 +1,17 @@
+[
+  {
+    "event_name": "explore_events_clicked",
+    "event_description": "User clicks the 'Explore Events' button on the homepage hero section.",
+    "file": "components/ExploreBtn.tsx"
+  },
+  {
+    "event_name": "event_card_clicked",
+    "event_description": "User clicks on an event card to view the event detail page.",
+    "file": "components/EventCard.tsx"
+  },
+  {
+    "event_name": "nav_link_clicked",
+    "event_description": "User clicks a navigation link in the top navbar.",
+    "file": "components/Navbar.tsx"
+  }
+]
